@@ -1,6 +1,6 @@
 # Elevate-Labs-Task-4
 Use SQL queries to extract and analyze data from a database
-# Let's generate a README.md file for the SQL project.
+
 
 readme_content = """# Ecommerce SQL Data Analysis
 
